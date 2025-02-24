@@ -79,7 +79,7 @@
 <br>
 
 <p align="center">
-    <img src= 'https://github-readme-streak-stats.herokuapp.com/?user=lksergio&theme=blueberry&hide_border=true'>
+    <img src= 'https://github-readme-streak-stats.herokuapp.com/?user=Enmanuel060304&theme=blueberry&hide_border=true'>
 </p>
 
 <br>
