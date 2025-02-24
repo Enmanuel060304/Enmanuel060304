@@ -11,7 +11,7 @@
 
 
 	
-<picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+![About Me](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif) **About me**
 
 <picture> <img align="right" src="https://media1.tenor.com/m/1ZMQ6_PMf9MAAAAd/raccoon-rave.gif" width = 250px></picture>
 
