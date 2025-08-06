@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Enmanuel Urbina. I'm a software development student from Managua, Nicaragua.</h2>
+<h2 align="center">Hi 👋! I'm Enmanuel Urbina. I'm a software development student from Managua, Nicaragua.</h2>
 
 ###
 
